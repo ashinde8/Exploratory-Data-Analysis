@@ -1,5 +1,12 @@
 # Exploratory-Data-Analysis
 
+This repository consists of the code used for performing the Exploratory Data Analysis.
+
+YouTube Link : https://www.youtube.com/watch?v=ZVN-g1MbK-c&t=56s
+
+App Link : https://exploratory-data-analysis--app.herokuapp.com/
+
+
 The dataset consists of 1042 rows and 20 columns. This is a regression problem where we
 can the target variable is 'price' which I have predicted using Machine Learning Modeling.
 I Dropped the columns 'id', 'time_created','time_updated','external_id','url','latitude' and
